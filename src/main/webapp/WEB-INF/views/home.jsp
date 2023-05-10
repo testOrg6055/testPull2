@@ -8,6 +8,7 @@
 <h1>
 	Ready
 	김용우
+	이우진
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
